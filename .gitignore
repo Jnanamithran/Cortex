@@ -1,1 +1,13 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 .env
+=======
+cortrex.env
+>>>>>>> 8756d61 (Version 1.0)
+=======
+cortex.env
+>>>>>>> 9f6c19c (Version 1.0)
+=======
+.env
+>>>>>>> 1c20461 (Add .gitignore to exclude .env)
